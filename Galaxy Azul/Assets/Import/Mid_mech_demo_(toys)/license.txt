@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mid mech demo (toys)
+* source:	https://sketchfab.com/3d-models/mid-mech-demo-toys-17d145db55ea407da8a75d2f370020ae
+* author:	3DWorkbench (https://sketchfab.com/3DWorkbench)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mid mech demo (toys)" (https://sketchfab.com/3d-models/mid-mech-demo-toys-17d145db55ea407da8a75d2f370020ae) by 3DWorkbench (https://sketchfab.com/3DWorkbench) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
